@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { CopyCat } from './components/CopyCat'
+import { CopyCat } from '../components/CopyCat'
 
 class CopyCatContainer extends React.Component {
     constructor(props) {
